@@ -1,0 +1,22 @@
+{
+  "name": "number-polyfill",
+  "version": "1.0.0",
+  "description": "A polyfill for implementing the HTML5 <input type=\"number\"> element in browsers that do not currently support it.",
+  "main": "number-polyfill.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbullocks4rb/number-polyfill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinbullocks4rb/number-polyfill/issues"
+  },
+  "homepage": "https://github.com/robinbullocks4rb/number-polyfill#readme"
+}
